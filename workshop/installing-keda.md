@@ -1,4 +1,4 @@
-# Installing KEDA
+# 5. Installing KEDA
 
 ###  Use OperatorHub to install KEDA
 

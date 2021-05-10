@@ -1,4 +1,4 @@
-# Create and Configure Kafka Cluster
+# 2. Create and Configure Kafka Cluster
 
 ### Create a basic Kafka cluster for development on Confluent Cloud
 

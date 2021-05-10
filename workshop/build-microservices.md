@@ -1,4 +1,4 @@
-# Build Microservices
+# 3. Build Microservices
 
 You will need a Docker Hub account and the Docker client installed in your environment.
 

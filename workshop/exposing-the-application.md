@@ -1,4 +1,4 @@
-# Exposing the Application
+# 7. Exposing the Application
 
 ### Create Route for the frontend
 

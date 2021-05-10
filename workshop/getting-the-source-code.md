@@ -1,4 +1,4 @@
-# Setting up your environment
+# 1. Setting up your environment
 
 ### Clone the repo
 

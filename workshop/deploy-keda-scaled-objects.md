@@ -1,4 +1,4 @@
-# Deploy KEDA Scaled Objects
+# 6. Deploy KEDA Scaled Objects
 
 ### Deploy TriggerAuthentication
 

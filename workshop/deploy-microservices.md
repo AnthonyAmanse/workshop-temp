@@ -1,4 +1,4 @@
-# Deploy Microservices
+# 4. Deploy Microservices
 
 ### Deploy MongoDB and Redis
 

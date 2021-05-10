@@ -1,4 +1,4 @@
-# Simulate load to the Application
+# 8. Simulate load to the Application
 
 Access the simulator in the browser using the hostname you got from the previous step. You can now try the scenarios below to see the autoscaler in action.
 
