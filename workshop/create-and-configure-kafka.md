@@ -1,8 +1,8 @@
 # Create and Configure Kafka Cluster
 
-### Create a basic Kafka cluster for development
+### Create a basic Kafka cluster for development on Confluent Cloud
 
-Create a basic Kafka cluster for development. Once the cluster is ready, you should be able to create a Topic in the next step.
+Create a basic Kafka cluster for development on [https://confluent.cloud](https://confluent.cloud). Once the cluster is ready, you should be able to create a Topic in the next step.
 
 ![](../.gitbook/assets/image%20%287%29.png)
 

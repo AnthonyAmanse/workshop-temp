@@ -18,11 +18,11 @@ Ensure you have an IBM Cloud ID
 
 You will be given access to a temporary free OpenShift Cluster that was pre-created for the purpose of the workshop. The cluster will be deleted after the workshop. To gain access to this cluster:
 
-* Open the URL
+* Open the URL [https://kafka-summit-workshop.mybluemix.net](https://kafka-summit-workshop.mybluemix.net). Lab key is **`oslab`**
 
 ![](../.gitbook/assets/cluster.jpg)
 
-* Enter the workshop code provided by the workshop instructor and your IBM Cloud account IBM id. Select the terms and conditions checkbox and click the **`Submit`** button
+* Enter the lab key \(**`oslab`**\) and your IBM Cloud account IBM id. Select the terms and conditions checkbox and click the **`Submit`** button
 * You will be added to a cloud account where a cluster has been pre-provisioned for you. Click on the link in the instructions which ask you to `Log in to this IBM Cloud account`.
 
 ![](../.gitbook/assets/congratulations.png)
@@ -42,4 +42,18 @@ If you don't see the cluster, make sure you select the IBM org account in the up
 * Note the name of your cluster, you will use this cluster for this lab.
 
 ### Create a Confluent Cloud account
+
+You can sign up for a Confluent Cloud account on [https://confluent.cloud](https://confluent.cloud). You'll get  **$200 USD off each of your first three monthly bills.** Make sure you verify your account.
+
+{% hint style="info" %}
+You will be asked for a **credit card** when creating a cluster on this workshop. **Don't worry!** The workload on the cluster that you'll be doing won't exceed **a dollar**! You have $200 credits to use. You can easily delete the cluster after this workshop.
+{% endhint %}
+
+![](../.gitbook/assets/signup.png)
+
+![](../.gitbook/assets/signup2.png)
+
+![](../.gitbook/assets/verification.png)
+
+
 
